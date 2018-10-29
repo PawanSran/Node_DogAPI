@@ -1,0 +1,15 @@
+{
+  "name": "test_dogapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "pawnan",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "dogapi": "^2.8.3"
+  }
+}
